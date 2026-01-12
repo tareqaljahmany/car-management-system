@@ -10,11 +10,10 @@ A Python command-line application to manage cars.
 - `main.py` → Main program that runs the CLI
 - `validators.py` → Functions for input validation
 ## How to Run
-1. انسخ المشروع:
-   git clone <رابط المشروع>
-2. اذهب لمجلد المشروع:
+   git clone https://github.com/tareqaljahmany/car-management-system.git
+   
    cd car-management-system
-3. شغل البرنامج:
+   
    python main.py
 
 
